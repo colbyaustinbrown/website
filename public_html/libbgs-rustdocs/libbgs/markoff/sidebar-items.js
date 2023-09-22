@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["BloomFilter","Disjoint","OrbitTester","OrbitTesterResults"],"type":["Coord"]};

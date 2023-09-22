@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["INCLUDE_ONE","LEQ","NONE","NO_PARABOLIC","NO_UPPER_HALF"]};

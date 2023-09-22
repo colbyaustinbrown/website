@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["flags","tests"],"struct":["FactorStream","Factorization","FpNum","QuadField","QuadNum","SylowDecomp","SylowElem","SylowParStream","SylowSeqStream","SylowStreamBuilder"],"trait":["Factor","GroupElem","SylowDecomposable"]};
