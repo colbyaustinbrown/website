@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["find_nonresidue","intpow","intpow_const","legendre","long_multiply","long_multiply_const","standard_affine_shift"]};
+window.SIDEBAR_ITEMS = {"fn":["find_nonresidue","intpow","long_multiply","standard_affine_shift"]};
